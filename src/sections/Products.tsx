@@ -50,28 +50,28 @@ const ProductCard: React.FC<ProductCardProps> = ({ image, name, description, siz
 const Products: React.FC = () => {
   const products = [
     {
-      image: "https://images.pexels.com/photos/1000084/pexels-photo-1000084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://i.ibb.co/8nvd850d/51lh-SRXDq-ML.jpg" ,
       name: "Pure Life Water",
       description: "Crystal clear packaged drinking water with essential minerals for healthy hydration.",
       sizes: ["200ml", "500ml", "1L", "2L", "20L"],
       delay: 0.1
     },
     {
-      image: "https://images.pexels.com/photos/2615326/pexels-photo-2615326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://i.ibb.co/kVRYbdmk/Bailley1-min.webp",
       name: "Sparkle Soda",
       description: "Refreshing carbonated beverages available in multiple flavors.",
       sizes: ["250ml", "500ml", "1L", "2L"],
       delay: 0.2
     },
     {
-      image: "https://images.pexels.com/photos/8604328/pexels-photo-8604328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://i.ibb.co/YBqtk1rY/40138611-2-3-bailley-packaged-drinking-water-720x.webp",
       name: "Fruit Fizz",
       description: "Delicious fruit-flavored carbonated drinks for a refreshing experience.",
       sizes: ["250ml", "500ml", "1L"],
       delay: 0.3
     },
     {
-      image: "https://images.pexels.com/photos/2531188/pexels-photo-2531188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://i.ibb.co/Q7pnCXRh/a-s-s-traders-jalna-road-aurangabad-aurangabad-maharashtra-mineral-water-dealers-vx37wrwvd1.jpg",
       name: "Premium Mineral Water",
       description: "Enhanced with natural minerals for superior taste and health benefits.",
       sizes: ["500ml", "1L", "2L"],

@@ -11,7 +11,7 @@ const CallToAction: React.FC = () => {
       <div 
         className="absolute inset-0 opacity-10" 
         style={{
-          backgroundImage: `url("https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")`,
+          backgroundImage: `url("https://i.ibb.co/kVRYbdmk/Bailley1-min.webp" )`,
           backgroundSize: 'cover',
           backgroundPosition: 'center'
         }}
